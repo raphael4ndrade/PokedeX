@@ -5,11 +5,11 @@
 <img src="https://github.com/raphael4ndrade/PokedeX/blob/master/Screens/DetailsScreen.png" width="200" height="370">
 </div>
 
-## Protótipo
+## Prototype
  - [x]  IOs
  - [ ]  Android
  
-### Ajustes
+### Fixes
 - [ ] Add blur effect behind the modal
 - [ ] Make 2 tags per row at modal for weakness and type
 - [ ] Add more info in the modal
